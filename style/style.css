@@ -83,6 +83,7 @@ img {
 }
 
 .btn {
+  display: inline-block;
   font-size: 20px;
   color: #598d66;
 
